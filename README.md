@@ -11,9 +11,9 @@ I am persuing my B.Tech degree in Information Technology from **Pune Institute o
 
 ## Coding Profile:
 
+<a href="https://leetcode.com/shivamrakhunde03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamrakhunde03/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivamrakhunde" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="https://www.codechef.com/users/shivamrakhunde" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Shivam2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shivam2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/shivamrakhunde03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamrakhunde03/" height="30" width="40" /></a>
 </p>
 
 <br />
