@@ -36,4 +36,4 @@ I am persuing my B.Tech degree in Information Technology from **Pune Institute o
 ## Profile Status:
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamrakhunde&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" />
 
-![](./assets/bottom_header.svg)
+![](./bottom_header.svg)
