@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm Shivam Rakhunde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-I am persuing my B.Tech degree in Information Technology from **Pune Institute of Computer Technology**.
+I am persuing my B.Tech degree in Information Technology from [**Pune Institute of Computer Technology**](https://pict.edu/).
 
 - 🌍 I'm from **India**
 - ✨ I mostly contribute to [**Leetcode**](https://leetcode.com/shivamrakhunde03/)
