@@ -120,7 +120,7 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shivamrakhunde/shivamrakhunde/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ![](./bottom_header.svg)
 
