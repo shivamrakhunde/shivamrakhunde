@@ -11,6 +11,7 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 ## Profile Status:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamrakhunde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shivamrakhunde&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamrakhunde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -58,5 +59,11 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ![](./bottom_header.svg)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shivamrakhunde/count.svg?"  />
+</div>
 
 ###
