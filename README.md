@@ -67,7 +67,7 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 
 <!-- <h2 align="left">Hi 👋! My name is Shivam Rakhunde and I'm a ..., from ....</h2> -->
 
- # <p align="center"> Hey, I'm Shivam Rakhunde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
+# <h2 align="center"> Hey, I'm Shivam Rakhunde <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
 I am persuing my B.Tech degree in Information Technology from [**Pune Institute of Computer Technology**](https://pict.edu/).
 
 - 🌍 I'm from **India**
