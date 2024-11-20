@@ -29,7 +29,7 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 ## Technology Stack:
 <p align="left">
     <p align="left"> 
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
             <img src="https://banner2.cleanpng.com/20171217/033/av2bv0zlf.webp" alt="C">
         </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
