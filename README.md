@@ -77,6 +77,7 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 
 ###
 
+## Profile Status:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamrakhunde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamrakhunde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -118,9 +119,6 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/shivamrakhunde/shivamrakhunde/output/snake.svg" alt="Snake animation" />
-
-## Profile Status:
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamrakhunde&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" />
 
 ![](./bottom_header.svg)
 
