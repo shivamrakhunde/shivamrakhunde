@@ -54,6 +54,10 @@ I am persuing my B.Tech degree in Information Technology from [**Pune Institute 
 
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamrakhunde" alt="shivamrakhunde" /></a> </p>
+
+###
+
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
